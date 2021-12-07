@@ -1,0 +1,1410 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Generated-By: Serge 1.4\n"
+
+#: File: sample.xlsx
+#: ID: f6e36787f7249ac37f467382d7a447a2
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "「離し⋯⋯て⋯⋯、うっ⋯⋯、むううっ⋯⋯！　もぐっ⋯⋯むぐっ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c8a6ff5b5eb7a5a2341a7bf9a2f9e9b3
+msgctxt "イーリス　Scene3D_RiccaArachne.csv"
+msgid "「ううっ⋯⋯、くっ、糸が⋯⋯、羽に絡みついて⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 6f94dd49c1948d53453c6afcc0a2729e
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「とっても可愛い騎士の女の子⋯⋯、全身ぐるぐる巻きにされて手も足も口も出ないかしら？ウフフッ、か弱い女の子がこんなところに来てはダメよ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0bfed48b0995583dc6254f35620381a6
+msgctxt "イーリス　Scene3D_RiccaArachne.csv"
+msgid "「くっ⋯⋯、ちょっとっ、その子をどこに連れて行くつもりっ！？人間たちをさらって何がしたいのっ⋯⋯！？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d74dc8e95f1cd29beb9f441878851057
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「あら⋯⋯、あなたも口をふさいだつもりだったのに⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: cde9317f19beb1f1dac99cda0a2209ed
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「うるさいわよ、神の使いの妖精っ。ブンブン飛び回るしか能がないくせに騒ぐんじゃないわ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 98a807b52af23e7cb6aec274b64ca843
+msgctxt "イーリス　Scene3D_RiccaArachne.csv"
+msgid "「え⋯⋯、わ、私のことを知っている⋯⋯？やはり、この寺院のドレインクリスタルもアークリッチの仕業なの⋯⋯？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 05a5912f13beb9a18807e7368c8648cb
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「ウフフッ、あなたにもちゃんと産み付けてあげるから黙って待ってなさい。でも、その小さな体では一個が限界⋯⋯、ううん、一個だけでも破裂しちゃうかも」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 625a0361e33f191d391f779cca12ec5a
+msgctxt "イーリス　Scene3D_RiccaArachne.csv"
+msgid "「産み付け⋯⋯、は、破裂⋯⋯？まさかっ⋯⋯、体に卵を⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4c4b55185d3cd989ffb29408083a583a
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "「むぐぐっ⋯⋯⋯⋯、むぅ～～～っ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3be14845ef540fb2baf8193727199cf7
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「あらあら⋯⋯、こんなに若い女の子は久しぶりね♪人間の脚ってムチムチしていてそそるわぁ～♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b3793567a6b477204971485ad47b82c7
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「ウフッ、この騎士様のお腹はどれだけ育てられるかしら？他の人間とは違う魔力を感じるし、きっと卵を優しく包み込んでくれる⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 7998449029af551dce2840f771a19a43
+msgctxt "イーリス　Scene3D_RiccaArachne.csv"
+msgid "「はぁっ、はぁっ⋯⋯、糸が⋯⋯、手足にも絡んで⋯⋯、あぁっ⋯⋯、待ちなさいっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 289c71a25baf73e703b5c35a811434a5
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「あぁんっ、アソコも柔らかそう⋯⋯。早く産み付けてあげたくって、少し漏れてきちゃった⋯⋯。それじゃあねっ。バイバイ、間抜けな妖精さん♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: bd198d017e9a609ab46840fc74691046
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「あなた、名前は確かリッカちゃんだったかしら。西の森から来たゴブリンから聞いたことがあるわ♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: eb002abff1239b06de59b3e7990ee407
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "「うっ、ううっ⋯⋯⋯⋯、や、やめてっ⋯⋯！あなたたちはドレインクリスタルのせいでおかしくなっているのっ⋯⋯！私が壊して元に戻してあげるからっ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 9039cce4b397d10ff17e3a8c40b82557
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「ドレイン⋯⋯クリスタル⋯⋯？魔術師様が作った⋯⋯、赤くて⋯⋯大きい宝石⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4504742e4e26801dbc641b44aa71f06b
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「あれを壊すなんてとんでもないわ⋯⋯。リッカちゃん、あなたって悪い子だったのね⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c0c9834e68b8b2be9cf3dd190046c9a8
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "「このアラクネ⋯⋯、やっぱり竜の谷のドラゴンと同じようにおかしくなってる⋯⋯。くっ⋯⋯、ううっ⋯⋯、蜘蛛の巣が⋯⋯、動けない⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: e98924bd5a8f96d15a3845b5fe477cb3
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「クスクスっ、必死で身を捩って、まるで捕らわれの蝶のよう⋯⋯。どれだけ暴れても、もう逃げられないのよ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4a49692f02518b2a5743ef393ba4eeb8
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid ""
+"「だって、この巣は姉妹のみんなで幾重にも糸を張り巡らせて作った、リッカちゃん専用のベッドだもの。あなたの体が神様の力で強化されていても、絶対に壊せないわ"
+"」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 44e6e5bcb99269d01d9cace23d629ae1
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "（神様の力⋯⋯、アラクネたち⋯⋯、私が聖騎士だって知ってる⋯⋯。くっ、片手だけでも動かせれば⋯⋯、ソードスローが使えるのに⋯⋯）"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c126c3fb3325a286d1b3c83b8f709b63
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid ""
+"「あなたはここで、ず～っと、卵を育てるお母さんとして暮らすの。卵を女の子のお腹に入れて、たっぷり魔力を吸わせると、生まれた赤ちゃんが強く大きく育つのよ？"
+"」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 9634106c33c62f65e1b3e433aebcc32e
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid ""
+"「私がお母さんっ⋯⋯！？　ひっ、雨の⋯⋯、町のレインコーラー⋯⋯、あ、あぁっ⋯⋯、あんなの、嫌ぁぁっ⋯⋯！　"
+"助けてっ⋯⋯⋯⋯、私っ、魔物の卵なんて⋯⋯嫌っ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: e675b7f9b9d2c691af342fbaa112a0ac
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「あらあら、心配しなくても大丈夫よ？私たちの卵はレインコーラーみたいにお腹の中で生まれたりしないわ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0251365fa6c77d54efe38c32e96d6deb
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「子宮の中で魔力を吸いながら大きなって、十分に育ったら外に出て赤ちゃんが生まれるの」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d5b1ec6fb2801fb42b519ef8d2d0a117
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「⋯⋯つまり、お腹で大きく育った卵をリッカちゃんが産卵するってことね♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4043ce5f25a5db52beccabd7efc4654f
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "「さ、産卵っ！？　嫌⋯⋯、そんなのって⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 66fdfc3b96aa7cf607dc819c17e905b2
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid ""
+"「人間が卵を生むときってすごく気持ちいいみたい。気持ちよすぎて、普通の女の子は何個か産むと壊れちゃうの⋯⋯。でも、リッカちゃんなら何百回でも耐えられそう"
+"ね♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b463a96566eded2d91766344db10c5a4
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "「あっ⋯⋯、ひぃぃっ⋯⋯！　やだっ⋯⋯、そんなの⋯⋯やめてっ⋯⋯、わ、私はあなたたちだって⋯⋯、アークリッチから助けたいのに⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c0d679462e3d15661230dfd12063691b
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「ウフフッ、そんなこと考えちゃだめっ♪あなたはもうここから動けないから、これからは体のお手入れも、お食事も、下のお世話も全部、私たちが面倒見てあげる」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 31bffbf0a56db2929edb405799177f4c
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「だからもう何もしなくていいの⋯⋯、お姉さんに任せて、卵のことだけしか考えられないエッチな女の子になっちゃいなさい♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4f21ad1b2dec6cc75fc3d07a2aa8f0ff
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「ウフッ、それに、オマンコだってもうこんなに⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4123397d29b86fab2bae700e7fa1145c
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「あら、リッカちゃんのお腹の模様⋯⋯、この呪印、自分で刻んだの？それとも淫魔にやってもらったの？　とってもいやらしい⋯⋯♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 66516da4c33e82f9d158684a0bf50bb6
+msgctxt "リッカ　Scene3D_RiccaArachne.csv"
+msgid "「ううっ⋯⋯、これは⋯⋯、お姉ちゃんのサキュバスに無理やり⋯⋯、ああぁっ、いやぁんっ⋯⋯、わ、私はいやらしくなんてないっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 2e3e9aac018d8f8fc1645067a3f5eb01
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「ウフフ、手も足も出ない癖に生意気なところも可愛い♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0e75a8c5b46dc5bff52c913b864bc86d
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「だけど、あの妖精と二人だけで私たちの住処に来るなんて、リッカちゃんは敵に負けて無理やりされるのが好きな変態さんなのよね？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d81eee623e98df04c2d5becbc2fb2bd9
+msgctxt "アラクネ　Scene3D_RiccaArachne.csv"
+msgid "「うふふ⋯⋯、それなら望み通り、私がたっぷり可愛がってあげる♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: abd57194eff68e48bf2250ece53fffb3
+msgctxt "リッカ　Scene3D_RiccaArachne_Sex2.csv"
+msgid "「ああぁっ、がっ⋯⋯、お゛っ⋯⋯、ひゃめっ⋯⋯、んお゛っ⋯⋯♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f7684820980e8bc3455342b2052bbeb2
+msgctxt "アラクネ　Scene3D_RiccaArachne_Sex2.csv"
+msgid ""
+"「ふふっ、この体勢だと産卵管が奥の奥まで届くの⋯⋯。私の産卵管⋯⋯、太いところと細いところが交互にあって、卵を抱くお部屋の入り口をコリコリ引っ掻いて気持"
+"ちいいでしょ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f753c00f44f947872bd3f25e4026d177
+msgctxt "リッカ　Scene3D_RiccaArachne_Sex2.csv"
+msgid ""
+"「ああっ⋯⋯、しょこっ⋯⋯、弱いからっ⋯⋯、しきゅうっ⋯⋯、お゛ぉっ⋯⋯、入り口がっ⋯⋯、中まで入ってっ⋯⋯あ゛ぁっ⋯⋯、ひゃうっ⋯⋯、もうっ、だめにっ"
+"⋯⋯、なるっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f9054e948a9d41d5a5303fd4357f6e75
+msgctxt "アラクネ　Scene3D_RiccaArachne_Sex2.csv"
+msgid "「あぁんっ、きゅうきゅう締め付けてきて気持ちいいっ♡リッカちゃんって他の女の子よりもずっと感度がいいのね⋯⋯、うふふっ⋯⋯、私ももう、出ちゃいそう⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c1817e57992281dd15ca85e6168c3273
+msgctxt "リッカ　Scene3D_RiccaArachne_Sex2.csv"
+msgid ""
+"「あぁんっ、太っ、いっ⋯⋯、わらひの奥っ⋯⋯、おかしくなるっ⋯⋯、あ゛ああぁぁっ⋯⋯！　"
+"卵の管っ⋯⋯、ひゃうっ⋯⋯、あ゛ぁっ⋯⋯、あ゛ぁっ⋯⋯、ゴツゴツっ⋯⋯、当たって⋯⋯、るっ⋯⋯♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 36655051a05646904df31a1c713e50fa
+msgctxt "地の文　Scene3D_RiccaArachne_Spawn.csv"
+msgid "一週間後⋯⋯。"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 1c5de7c8bc274ab89db31362b378c3c4
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「はぁ⋯⋯、はぁ⋯⋯⋯⋯、お腹⋯⋯⋯⋯苦しい⋯⋯⋯⋯、あ⋯⋯、中で⋯⋯、んんっ⋯⋯、卵⋯⋯⋯⋯、動いてる⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 14de6fa5814c2f289dc1dbe397f69141
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid ""
+"「ふぅ⋯⋯、あの魔法使いの子はもうだめね⋯⋯、魔力がたっぷりでとても優秀なお母さんだったのだけど。⋯⋯それにしても、たった一人で何をしに来たのかしらね？"
+"」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0aafd4e3113741eea1e3c3ce323a6e3c
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「そんな⋯⋯⋯⋯、クレレ⋯⋯ちゃん⋯⋯、んはぁ⋯⋯、うっ⋯⋯、ぐすっ⋯⋯、ううっ⋯⋯ぐすっ⋯⋯、ぐすっ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 087ef4ebc4b296ecd666e22e4cbc7924
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「さて⋯⋯、リッカちゃん、お腹の様子はどうかしら？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4b6f43c9a938c97e32cb7a15ec44fac5
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「うっ⋯⋯、こ、来ないで⋯⋯⋯⋯、もう⋯⋯、卵⋯⋯やだ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b6b57ea30d39746f4cdce49d6ad6cf1b
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「ウフフ、本当は産み付けられるのが大好きなくせに⋯⋯。あら、リッカちゃんのお腹、かなり大きくなってきたわね♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 865bd7324844b8cb211afd4a0ae7d3aa
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid ""
+"「はぁっ⋯⋯、はぁ⋯⋯⋯⋯、あ⋯⋯、また産み付け⋯⋯、もう⋯⋯、やだぁ⋯⋯、アラクネのお姉さんたちに⋯⋯、気持ちよくされるの⋯⋯、気持ちよすぎて⋯⋯辛い"
+"からぁ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f1323a1e830f1cf8bbcd40c32bf91b11
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「ウフフ⋯⋯、少し前まで生意気な騎士様だったのに、すっかり臆病で弱気な女の子になっちゃったわね♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 8dd53559da969464887e409f31525d35
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「大丈夫よ、頑丈なリッカちゃんでもこれ以上は破裂しちゃうから、もう産まないわ。神の使いの妖精みたいになったら可哀想だもの」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 642551cece3399d13c812e6e85cac4af
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「はぁっ⋯⋯、はぁ⋯⋯ぐすっ⋯⋯、イー⋯⋯、リス⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: e656c403b683f1ecf97217db34074410
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「それにしてもすごい大きさね⋯⋯。ウフッ⋯⋯、リッカちゃんのお腹⋯⋯居心地がいいみたいだから、卵がなかなか出てこずに、こんなに膨らんじゃって⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 19f5b551628fbe980fb54580420b684a
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「はぁ⋯⋯はぁ⋯⋯、ひぃんっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 9228936e3f7e755963a466be0cce965e
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid ""
+"「あ⋯⋯あぁっ⋯⋯、た、卵⋯⋯、動いてる⋯⋯⋯⋯、蜘蛛の赤ちゃん⋯⋯⋯⋯、震えてっ、外に出たがってるっ⋯⋯。私っ⋯⋯、あぁんっ、赤ちゃんたちに気持ちよく"
+"されちゃってるっ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c71ed57bb5933520e4186bcaa411d5eb
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「あら、ようやく産まれるのね⋯⋯♪クスっ、この大きさの卵なら、とても強い子が生まれるはず。きっと、北の地の女王様のような子が何匹も⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d0ca5f15f000bdb58144ee767acc66b9
+msgctxt "アラクネ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「あぁん、リッカちゃん、やっぱりあなたは最高の抱卵器よ。すっごく気持ち良くって気絶しちゃうかもしれないけど、頑張って産んでね、お母さん♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d0f4fc369accea46f4af9d3e8c4eba7d
+msgctxt "リッカ　Scene3D_RiccaArachne_Spawn.csv"
+msgid "「ああっ⋯⋯、卵擦れてっ⋯⋯、私っ⋯⋯、卵産んじゃう⋯⋯、神様の騎士なのに⋯⋯、んっ、あひっ⋯⋯、産卵しちゃうっ⋯⋯、あっ、あああぁぁぁっ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: fa2f88c3eddfdb9f136943ab7f17b89e
+msgctxt "地の文　Scene3D_RiccaArachne_Swarm.csv"
+msgid "１時間後⋯⋯。"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: a2b76feed4841fdbb6b4b0c257180ec2
+msgctxt "リッカ　Scene3D_RiccaArachne_Swarm.csv"
+msgid "「もうっ、気持ちよすぎて⋯⋯、はっ、ンンッ、あっ、あぁんっ、お願いっ⋯⋯、やぁっ、ンッ、休ませてぇ⋯⋯。あっ、あぁんっ⋯⋯、やぁんっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d267e727bd363f03cccca1fb247323d1
+msgctxt "アラクネの姉妹A　Scene3D_RiccaArachne_Swarm.csv"
+msgid "「ウフフッ、この子っ、すごい締め付けっ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 19de98eed9bcfc8426f6eb7958d7e936
+msgctxt "アラクネの姉妹B　Scene3D_RiccaArachne_Swarm.csv"
+msgid "「ああんっ、ずる～い⋯⋯、次は私が産み付けてあげたかったのにぃ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f22832a0af33acd1d04a8964bdb7b6ec
+msgctxt "アラクネ　Scene3D_RiccaArachne_Swarm.csv"
+msgid "「クスクスッ⋯⋯、順番、順番♪リッカちゃんならまだまだ大丈夫よ。みんなで卵をたっぷりお腹に産んであげましょう♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 254a133f4fb31ba14ddab13a5ec30523
+msgctxt "リッカ　atd_RiccaArachne_01.csv"
+msgid "「えっ⋯⋯、ちょっとっ⋯⋯、やめて⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 8f382ec644307efb80ed44544d305f9e
+msgctxt "リッカ　atd_RiccaArachne_04.csv"
+msgid "「お腹⋯⋯、はぁ⋯⋯産まれる⋯⋯、産んじゃうっ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 79c3989205cdc6f39c70832ce7d5ff9e
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: eced159484bf18deb64e212ea23c7926
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "（私は⋯⋯、胸をアークリッチの剣に貫かれて死んだ⋯⋯。だけど⋯⋯、身体が重たい⋯⋯、どうして感覚がまだあるの⋯⋯？死ぬってこういうことなの⋯⋯？）"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: aff4cb099196ee470154232bfc24b58c
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「く⋯⋯、うっ⋯⋯、うぅ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 56124fea6858de13e8c6c1d467d9ad34
+msgctxt "クレレ　Scene3D_RiccaArclich.csv"
+msgid "「あぁっ、リッカさんっ、目が覚めたんですねっ！⋯⋯イーリスさんっ、ミリアさんっ、リッカさんが起きましたよっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 6dd78ecc38933bcd78de27c0bf0e3568
+msgctxt "イーリス　Scene3D_RiccaArclich.csv"
+msgid "「ウフフッ、ようやく起きたの⋯⋯？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 39d34f5eacadabf47521a82f2b076e69
+msgctxt "ミリア　Scene3D_RiccaArclich.csv"
+msgid "「おはよう、リッカ⋯⋯、やっぱり寝ぼすけさんね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 58dd91d7c1cd72b524fdfa6a64559232
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「えっ、クレレちゃん、イーリス⋯⋯、お姉ちゃん⋯⋯？ううっ⋯⋯、目を開けてるのに真っ暗で何も見えないよ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: a8891fd288f59b2ca51fa0d37aedba4d
+msgctxt "イーリス　Scene3D_RiccaArclich.csv"
+msgid "「⋯⋯まだ治っていないようね。大怪我をしたのだから仕方ないでしょうけど、待ってなさい。回復の魔法をかけてあげるわ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 43ce2b287bf89e0f184f8543b8297b69
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「っ⋯⋯、ここはアークリッチの城⋯⋯！？手足が⋯⋯、鎖で縛られて⋯⋯ど、どうして⋯⋯⋯⋯、アークリッチはどこに⋯⋯！？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b1b594699ddf4696f5fd4610fe8bb728
+msgctxt "クレレ　Scene3D_RiccaArclich.csv"
+msgid "「えへへ、リッカさん⋯⋯。アークリッチ様はお出かけ中です。その手足の枷は私たちからのプレゼントですよぉ♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 8dcae26aa1ec307557b7168b890b0a91
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「クレレちゃん⋯⋯、アークリッチ様って⋯⋯、まさか⋯⋯、またお姉ちゃんも⋯⋯！？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: e856735e1940e67431baf7c9d8e3c265
+msgctxt "ミリア　Scene3D_RiccaArclich.csv"
+msgid "「アークリッチ様はあなたのこと、とても嫌っているみたい」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 31f24052f6d4d97cce3d3468bebeffa9
+msgctxt "ミリア　Scene3D_RiccaArclich.csv"
+msgid "「あんなに楯突いたのだから仕方ないとは思うけれど姉として悲しいわ⋯⋯。一度殺したくらいでは足りないほど、恨みを抱かれている⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3097cf2567269cecec07ff09f1541788
+msgctxt "イーリス　Scene3D_RiccaArclich.csv"
+msgid "「⋯⋯だけど、私たちはあなたを死なせたくなかったから、瀕死のあなたを救うために、アークリッチ様に必死で泣きついた」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 2287a5072080402ea933b16a8be63691
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「あぁ⋯⋯、イーリスまで⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ef52963da3316f3a011110ce3804c911
+msgctxt "クレレ　Scene3D_RiccaArclich.csv"
+msgid "「私も兵士の人たちが全滅して魔物に陵辱された後、アークリッチ様の前に連れてこられたんです。はぁ⋯⋯、まだアソコがヒリヒリします⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: a1b5f82c56c620e9a3bae6ad44315df7
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「クレレちゃん、そんな酷いことを⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 5e1198567b93bb53b689ae72a32c278d
+msgctxt "ミリア　Scene3D_RiccaArclich.csv"
+msgid "「⋯⋯私たちはアークリッチ様に向かって跪いて何度も懇願したわ。ご命令通りに肌を晒して⋯⋯、自慰をしながらみっともなく泣き縋って⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3b43948e2c74bcf2581e3292b1fdb021
+msgctxt "ミリア　Scene3D_RiccaArclich.csv"
+msgid "「うふふふっ⋯⋯、あのお方⋯⋯、きっと根は初心な男の子だから女の涙に弱いのね。条件と引き換えにあなたの命を救うお許しを得たの」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 16fa8461744708bf9841f744453632f6
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「じょ、条件⋯⋯？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0f7ba4a059d6b5c7ffb5d750a9003c19
+msgctxt "イーリス　Scene3D_RiccaArclich.csv"
+msgid "「そう。私たちがあなたを躾けて、魔物の奴隷に堕とす」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 572d1e0f43ebc8e3c65bb60df651f406
+msgctxt "イーリス　Scene3D_RiccaArclich.csv"
+msgid "「あなたが聖騎士ではなく、どんな魔物にだって進んで奉仕する従順な牝犬なら、もう恨まない⋯⋯、生命を奪うに値しないと言ってくださったわ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: eac17a88f7cb191bf482dcbc09aabcdf
+msgctxt "ミリア　Scene3D_RiccaArclich.csv"
+msgid "「アークリッチ様⋯⋯、とても優しく寛大なお方⋯⋯。私を再び魔物の仲間に加えてくださった。それに、あなたのお友達まで一緒に⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ee5e857cc4ef16c3e3cc607f8a9af3da
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid ""
+"「みんな⋯⋯、アークリッチに心を操られて手下に⋯⋯⋯⋯。だめっ、元に戻って⋯⋯！　"
+"イーリスっ、神様の使命をっ⋯⋯、私たちは邪竜の復活を阻止しないといけないんだよっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: cafeb4f047afa10a530c0ba814c0da92
+msgctxt "イーリス　Scene3D_RiccaArclich.csv"
+msgid "「邪竜？　それならもう復活して、アークリッチ様と共に私の故郷へ向かったわ。古い聖騎士の代わりとして、神様の肉体を得るとおっしゃっていたわね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c6198983627a5b7d861768c2ffef2292
+msgctxt "クレレ　Scene3D_RiccaArclich.csv"
+msgid "「港町も、王都も⋯⋯、邪竜に荒らされて滅茶苦茶になっています。王都の兵隊も⋯⋯、たぶん私の両親も⋯⋯、もう⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 8f9a57e2ec2a75e86348111406b9fbfd
+msgctxt "リッカ　Scene3D_RiccaArclich.csv"
+msgid "「そんな⋯⋯⋯⋯、あ⋯⋯、あぁぁ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ff632177c8f02630d8ff2ebc38162f4f
+msgctxt "ミリア　Scene3D_RiccaArclich_00.csv"
+msgid "「さぁ、リッカ。躾をして立派な女の子に⋯⋯、いえ⋯⋯、魔物みんなの立派な牝犬奴隷に調教をしてあげる♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 38f9d40be5435d5846d017078a47d9c4
+msgctxt "ミリア　Scene3D_RiccaArclich_00.csv"
+msgid "「⋯⋯イーリスちゃん、呪いの封印を解いてくれるかしら？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 736aa03919540b2a9444803d4ca96d2c
+msgctxt "イーリス　Scene3D_RiccaArclich_00.csv"
+msgid "「はい、わかりました。ミリアお姉さま。⋯⋯⋯⋯はぁああっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 904abd8dea3342477e55ca9c9a568dbc
+msgctxt "リッカ　Scene3D_RiccaArclich_00.csv"
+msgid ""
+"「あ⋯⋯、イーリス⋯⋯やめて⋯⋯、はぁっ⋯⋯、んぁはぁぁっ⋯⋯、か、身体が熱く⋯⋯⋯⋯、はぁっ⋯⋯、⋯⋯んんっ⋯⋯。こんなの⋯⋯、集中して⋯⋯聖なる力を"
+"集めればっ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 46edb354668c825eca7ab72e86bbac60
+msgctxt "イーリス　Scene3D_RiccaArclich_00.csv"
+msgid ""
+"「フフフッ、無駄よ。姿は聖騎士のままだけど、ブローチの力に制限を掛けているから、呪いはほぼ完全に発揮されるわ。今のあなたは頑丈なだけの、ただの人間の娘っ"
+"てこと」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f0b2f800bc08067d9e44919615946e94
+msgctxt "リッカ　Scene3D_RiccaArclich_00.csv"
+msgid ""
+"「はぁっ、はぁっ⋯⋯、そんな⋯⋯⋯⋯、んはぁぁっ、あぁぁっ⋯⋯、お腹の奥⋯⋯熱いっ⋯⋯、前より呪いっ⋯⋯、強くなってる⋯⋯、んぁあぁっ⋯⋯、んくぅんっ⋯"
+"⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d0b95622f61a989a155c0b3dbd423bb5
+msgctxt "クレレ　Scene3D_RiccaArclich_00.csv"
+msgid "「えへへ、リッカさんっ、これでまたおっぱいを出せますね♪もっと奴隷として相応しくなるように、私が吸って魔力を奪ってあげます」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: e04ff1a3fd9251852371aca229d0a666
+msgctxt "クレレ　Scene3D_RiccaArclich_00.csv"
+msgid "「あ～んっ、ちゅぷっ⋯⋯、んちゅ～⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: adcb574b947451ef6ec2970af63527ee
+msgctxt "イーリス　Scene3D_RiccaArclich_00.csv"
+msgid "「それなら私は反対側の胸を吸ってあげる。あら⋯⋯⋯⋯、人間の乳首って大きいのね⋯⋯。強く噛み付くくらいでちょうどいいかしら？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d8b951cb66a5cf53d7e56cd9041a7838
+msgctxt "イーリス　Scene3D_RiccaArclich_00.csv"
+msgid "「ウフフ⋯⋯、木苺みたいで美味しそうね⋯⋯、んあ～ん⋯⋯、はむっ⋯⋯、ぐちゅうっ～～！！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d3d19d4b1a2ffb2f85669869c3afa67e
+msgctxt "リッカ　Scene3D_RiccaArclich_00.csv"
+msgid ""
+"「ひあああああぁっ⋯⋯！！　く、クレレちゃん⋯⋯、イーリスっ、ひゃめえぇぇっ⋯⋯♡　"
+"ち、乳首っ、そんなに強く⋯⋯、んくぅ、あああぁぁぁっ、おっぱい出ちゃうっ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: e7c1350cf63298f084da479f9c9b2bdb
+msgctxt "ミリア　Scene3D_RiccaArclich_00.csv"
+msgid "「あらあら⋯⋯、とってもエッチな声⋯⋯。牝犬の素質は十分ね♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 6b6fe029220f0076de8b610f85a6ac90
+msgctxt "ミリア　Scene3D_RiccaArclich_00.csv"
+msgid "「私はお豆さんを虐めてあげる⋯⋯、ウフフッ。きっとあなたなら立派な奴隷になれるわ♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 34dc99b9b2c4f3369f8eb4eb1e777ecf
+msgctxt "リッカ　Scene3D_RiccaArclich_00.csv"
+msgid "「あぁぁっ、お、お姉ちゃんっ⋯⋯、そ、そこっ、強く摘んだら⋯⋯、あぁぁぁぁっ、手袋の感触⋯⋯、気持ちいいっ⋯⋯、んにゃぁあああぁぁぁっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ef978b5a62e5e8dcd858850295a848b0
+msgctxt "イーリス　Scene3D_RiccaArclich_01.csv"
+msgid "「ウフフ、逆さ磔にされた状態で、陰核を足でグニグニ潰されて勃起させるなんて⋯⋯。あなたってマゾの変態だったのね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0a86a031f78202c5f75c729dbb5fb7f1
+msgctxt "リッカ　Scene3D_RiccaArclich_01.csv"
+msgid "「いぎぃっ⋯⋯、あ、足っ⋯⋯！？　やぁんっ、イーリスっ⋯⋯、んんっ、やぁっ、クリっ⋯⋯、やめてぇぇぇぇっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 126c95f527351dafd78f1cbcc4262300
+msgctxt "イーリス　Scene3D_RiccaArclich_01.csv"
+msgid "「きゃっ⋯⋯、ああ、もうっ⋯⋯、そんなに暴れるんじゃないわよっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: cbb509419ec0d830ebe0c74a7c6b73f3
+msgctxt "イーリス　Scene3D_RiccaArclich_01.csv"
+msgid "「吹き出た愛液で足が滑って、ひくひく開きっぱなしの膣穴に落っこちちゃうじゃない」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 1de5178e89fbec7a9c152fff023e8a5e
+msgctxt "クレレ　Scene3D_RiccaArclich_01.csv"
+msgid "「にひひ、仕方ないですよ。リッカさんって純朴そうに見えて、とっても敏感でエッチな女の子なんですから」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 323d5d3bc7c62476602fbafc4fb020a9
+msgctxt "リッカ　Scene3D_RiccaArclich_01.csv"
+msgid "「あぁぁぁっ、クレレちゃんっ⋯⋯、お尻っ⋯⋯、そんな太くて固いのでグリグリしたら⋯⋯、あっ、ンンンッ⋯⋯、らめぇぇぇぇぇっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b10711b17d819ca2bf76e6bffde42dd9
+msgctxt "クレレ　Scene3D_RiccaArclich_01.csv"
+msgid "「あははははっ、リッカさんの反応、とても面白いですっ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 9f7c7783ebcac6e6e4a8f4234b4932f5
+msgctxt "クレレ　Scene3D_RiccaArclich_01.csv"
+msgid "「私よりお姉ちゃんだって威張っていたのに、『らめぇぇぇぇぇっ⋯⋯！』なんて、クスクスっ♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 8db76e226b6dfed56d3767453564f058
+msgctxt "ミリア　Scene3D_RiccaArclich_01.csv"
+msgid "「ウフフ⋯⋯、気持ちよさそうに震える度に、村の牧場の牛みたいにミルクが吹き出てくる。だけど、呪いの効果とはいえ少し量が多すぎかしら⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: a34ae6ed39380264f1459331a5e4101d
+msgctxt "ミリア　Scene3D_RiccaArclich_01.csv"
+msgid "「こんなにミルクが作られているのなら、しっかりと出さないと詰まってチーズになってしまうわ。ウフッ、しっかり搾ってあげる♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 2e3ca81eca78482b0df237bccf6f7c5d
+msgctxt "リッカ　Scene3D_RiccaArclich_01.csv"
+msgid "「あぁぁぁ、お姉ちゃんっ、だめぇぇ、胸っ⋯⋯、お乳っ⋯⋯、両方いっぺんにっ⋯⋯、強く搾っらないでぇぇっ！！！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 19c642cf7ab1f198ddaf58233f247aed
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「はぁっ⋯⋯、はぁ⋯⋯、ンンッ⋯⋯、はあぁんっ⋯⋯、やめて⋯⋯、みんな、お願い⋯⋯、元に戻って⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b05191d6b386740774f8375d979e5b5f
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「早く諦めなさい⋯⋯。そうすれば苦しまずに済むわ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 7a076aa5fc0f66d37ad9a497d2c80cc4
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "（う、うぅ⋯⋯、⋯⋯⋯⋯⋯⋯あれ⋯⋯、イーリス⋯⋯？）"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 91cb62d2e8402c73f1e5761a1b27a6ef
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "（喋り方が⋯⋯、さっきよりも歯切れが悪い気がする⋯⋯。アークリッチの洗脳が弱まっているの⋯⋯？それなら⋯⋯⋯⋯）"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 10589b2d7aab9df75e6e21fd79391fa7
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「んっ、はぁっ⋯⋯⋯⋯、イーリス⋯⋯、はぁ⋯⋯、はぁ⋯⋯、二人で神様の使命を⋯⋯、果たそうよっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 80475cc644a4d4e92dda5f4b41dd490d
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「⋯⋯使命？　まだそんなことを考えているの？素直に私たちに従えば、もっと気持ち良くなれるのに⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d1987f2cc62ab99e8bd742c0f0c3023e
+msgctxt "ミリア　Scene3D_RiccaArclich_02.csv"
+msgid "「ウフフ、イーリスちゃん。この子はね、甘えん坊だからわがままを言って私たちの気を引きたいのよ。目を潤ませてお願いをすれば何でも望みが叶うと思っているの」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 9c3f2742b732e48acf1f01e1f52570c4
+msgctxt "クレレ　Scene3D_RiccaArclich_02.csv"
+msgid "「リッカさんって私よりも年上でお姉さんなのに、聖騎士の力が無ければ何にも出来ない、ただの女の子ですからね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3ffaea3cf9f5c7eb36dd14abe8c3f19e
+msgctxt "クレレ　Scene3D_RiccaArclich_02.csv"
+msgid "「自分じゃ何も出来ないから、他人に甘えることだけは得意なんです」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 2318af410760659c4345dd7aec941925
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「はぁっ、はぁ⋯⋯、私はそんなつもりじゃないっ⋯⋯。イーリスっ、いまからでもアークリッチを倒して、みんなを⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b3c202e71768e9415386040a857fd8dd
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「あら⋯⋯、あなた、牝犬奴隷の分際で私たちに口答えするの？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 2a7fcb96c5282c1f25ef6cda5a6f5b0e
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「うっ⋯⋯、くっ⋯⋯⋯⋯、ねぇ、聞いてよ、イーリスっ⋯⋯！私っ、アークリッチに魔力を奪われた時、夢の中で神様と話したんだよっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0ad8a0ab6b3a3ee55af00b4c43af957f
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「⋯⋯神様？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b2c9b553347483ffa315f3c6d69a000a
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「そうだよっ⋯⋯、神様はお姉ちゃんの姿で現れて、私たちに諦めるなって言ってくれた！だからっ⋯⋯、諦めずにいればきっとっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 1225254cab3d52e7d2d518edc656b9b5
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「そんなもの、あなたの想像力が作り出した幻でしょ？神様はあなたのことなんて、きっともう見捨てているわ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 68c582e0359eed86392b0f09b4b9478a
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「そんなことないっ⋯⋯！神様はきっとイーリスだって、助けようとしてくれているよっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b4832a60c3c4b81ba29cf8321a70576e
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「そう⋯⋯、ならあなたが見捨てられたと証明してあげる。魔法使い、ミリアお姉さま⋯⋯、力を貸してくれませんか？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ac6c44708292e0bc6c8a549ec3dfe64a
+msgctxt "ミリア　Scene3D_RiccaArclich_02.csv"
+msgid "「ウフフ、わかったわ、イーリスちゃん。あれをやるのね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0a01183a5fcc98a7449a0942b4dedae2
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「あぁぁぁっ、こんなのっ、だめっ、だめぇぇぇぇっ！！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 7e4249a21b649ee822057ae2688346ec
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「聖騎士の武器はね⋯⋯、持ち手の体に流れる魔力を吸収して、攻撃した相手に注ぎ込む一種の魔道具なの」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 1699e85610f1e79657a97cd09f68d0cc
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「だから、魔力を吸収するクリスタルに突き刺した状態であなたの粘膜と触れ合わせれば、聖騎士の力を吸い出し放題ってわけ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4baf1e8e5cd8460f0fca51d20b56ebc9
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「まあ、ブローチの加護が万全なら不可能だけど⋯⋯今ならできる」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d5ea8c0fab64cb4505cc303c739a83d0
+msgctxt "イーリス　Scene3D_RiccaArclich_02.csv"
+msgid "「クスクスっ⋯⋯、聖なる力の源はあなたの魔力。聖気を吸い出し尽くして、アークリッチ様に魔力を奪われた時のように、ブローチを壊してあげる」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 38fb38d351b694403126901d4c6d6d17
+msgctxt "クレレ　Scene3D_RiccaArclich_02.csv"
+msgid "「リッカさんの魔力を無駄遣いさせて生命に危険が及ぶほど空っぽになったら、持ち主の命を守るために、聖騎士のブローチは自身を魔力に還元する⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c0107edc340cac7335bf78ce7ba2af49
+msgctxt "クレレ　Scene3D_RiccaArclich_02.csv"
+msgid "「そして全ての魔力が完全に還元されるとブローチは壊れちゃうんですね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3492937baf2b42e689d23573f09220f9
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid "「そんな、イーリスっ⋯⋯。このブローチは⋯⋯、妖精の仲間の想いが詰まった大切な物だって言っていたのに⋯⋯。もう⋯⋯、完全にアークリッチの手下に⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 369209bd8abf64b93b9a28a9df87947e
+msgctxt "ミリア　Scene3D_RiccaArclich_02.csv"
+msgid "「リッカ。これからは私たちがずっと守ってあげる。だから憎たらしい神様の加護なんて、もう要らないでしょう？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 767af977b95c2cec66a8d5838ebdbb57
+msgctxt "リッカ　Scene3D_RiccaArclich_02.csv"
+msgid ""
+"「ひっ、あぁっ、やめてっ⋯⋯、聖騎士で無くなったら私⋯⋯、心が折れちゃう、希望を失っちゃう⋯⋯⋯⋯。お姉ちゃんっ、クレレちゃん⋯⋯、お願いっ、やめてぇぇ"
+"ぇっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b32c8ba221ef7e6a1980e9d3acdedf34
+msgctxt "クレレ　Scene3D_RiccaArclich_03.csv"
+msgid "「よいしょっ、よいしょっ⋯⋯、えへへ、まるで小さな子におしっこをさせる格好ですね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4d8269ddaa30f159af828f0f373ed387
+msgctxt "ミリア　Scene3D_RiccaArclich_03.csv"
+msgid "「ええ、昔はよくお世話してあげたのよ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: bce8a0668f8f7016175c0047c582f45a
+msgctxt "ミリア　Scene3D_RiccaArclich_03.csv"
+msgid "「リッカ⋯⋯あの頃は、よくおねしょをしたわね。ウフフ、この様子だと今もあまり変わらないみたい♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d1b119fa6daa5a053f7363253da51a32
+msgctxt "リッカ　Scene3D_RiccaArclich_03.csv"
+msgid "「はぁ、はぁ⋯⋯、二人ともっ⋯⋯、酷いよっ⋯⋯⋯⋯、やめてっ⋯⋯、あぁっ、嫌ぁぁっ、力が⋯⋯、抜けてっ⋯⋯ああぁんっ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 00965b10d696e577eefdfc3404432f6b
+msgctxt "イーリス　Scene3D_RiccaArclich_03.csv"
+msgid "「聖騎士の大剣の持ち手⋯⋯、膣によく馴染んで気持ちいいようね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0b7e08fad888f510b32953c5ac476763
+msgctxt "リッカ　Scene3D_RiccaArclich_03.csv"
+msgid "「ンッ、あぁっ、イーリス、やめてよっ、やめさせてぇぇっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0244e23021116cc5fbcd70848e98237c
+msgctxt "リッカ　Scene3D_RiccaArclich_03.csv"
+msgid "「あぁっ、これ以上吸われたら本当にっ、また⋯⋯、ブローチが壊れちゃうっ！私っ⋯⋯、ンンッ、聖騎士でなくなっちゃうっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: eda62a772014cc5b34bb7d933782f196
+msgctxt "クレレ　Scene3D_RiccaArclich_03.csv"
+msgid "「えへ、それなら、もっと早く魔力が尽きるように、もう一度、おっぱいからお乳を吸ってあげますね♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 6478a0ff6c25170cd63806aad5e5b76b
+msgctxt "ミリア　Scene3D_RiccaArclich_03.csv"
+msgid "「ウフッ、私も胸を吸いながら、尻尾でお尻を犯してあげる♪聖なる力も魔力の一種だから、絶頂をすればするほど、オマンコから剣に吸収されやすくなるわ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 1b12aa954a6154b2c1b61aed77e2dc36
+msgctxt "リッカ　Scene3D_RiccaArclich_03.csv"
+msgid ""
+"「ああぁぁぁっ、だめぇぇぇっ、胸もお尻もアソコもいっぺんになんてっ、あっ、あっ、ンッ、はへぇぇぇっ⋯⋯、らめだよぉっ⋯⋯、力を失ったら⋯⋯、こんなのっ、"
+"壊れちゃうよぉっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 22129286e80e1df96a644aceb1d3ad77
+msgctxt "ミリア　Scene3D_RiccaArclich_03.csv"
+msgid "「あらあら、この子ったらまたわがままを言って⋯⋯。おしおきとして、一気に子宮まで貫いて、穢らわしい神様の力を残らず吐き出させてあげる」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0759a8477f49a64f2f235ecf00245bf3
+msgctxt "リッカ　Scene3D_RiccaArclich_03.csv"
+msgid "「あぁぁっ、お願いっ、やめてっ⋯⋯、やめてっ！！子宮の入り口はだめなのにっ⋯⋯⋯⋯、降ろしてっ、そんなのっ、狂っちゃうっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 7695fded8f6cb3a6734eced9a9d22e0a
+msgctxt "クレレ　Scene3D_RiccaArclich_03.csv"
+msgid "「暴れたって無駄ですよ？　ミリアさんだけでなく、私もアークリッチ様から闇の力を頂いています」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 84a5833327a72f580f942aa7cfee270a
+msgctxt "クレレ　Scene3D_RiccaArclich_03.csv"
+msgid "「へへんっ、今の弱ったリッカさんより、うんと力持ちなんです」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 34950793307048e63c389b82c4b55334
+msgctxt "イーリス　Scene3D_RiccaArclich_03.csv"
+msgid "「⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f0f344a5d8446fd9e4093bcc7c3611f3
+msgctxt "イーリス　Scene3D_RiccaArclich_03.csv"
+msgid "「みんな⋯⋯、ごめんなさい⋯⋯。だけど私はもう⋯⋯、大切な者を失いたくないの⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ec38128333bdf127ee21a71c93a9a3f1
+msgctxt "イーリス　Scene3D_RiccaArclich_03.csv"
+msgid "「さあ、聖騎士リッカの物語はこれでおしまいよ。二人ともっ⋯⋯、お願いしますっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 54e82be9d7eea9a8867b30f7a12db905
+msgctxt "リッカ　Scene3D_RiccaArclich_03.csv"
+msgid ""
+"「そんなぁ、だめぇぇぇっ、ああぁぁぁぁっ！！イーリス、お願いっ⋯⋯、ンンッ、離してっ⋯⋯、やめてぇぇぇっ！みんなの手で希望を奪われるなんて、嫌ぁぁぁっ！"
+"！！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4d95ed4da81a9c53c1b2a15d5fb9e218
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「あ、あぁぁ⋯⋯⋯⋯、ブローチが⋯⋯、変身が⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 5b13722cc1acb9a0b7e6c618efc1cd69
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 11db1f0bcdc6c93e8c49410fb39265f5
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「ねぇ⋯⋯、あなた。ずっと魔物を殺すことに悲しみを感じていたのでしょう？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c96eb899bfb7a6992af76f082c66d069
+msgctxt "ミリア　Scene3D_RiccaArclich_04.csv"
+msgid "「んふっ⋯⋯、そうでしょうね⋯⋯。この子は村や山に住む生き物が大好きな優しい子だもの⋯⋯。もう戦わなくていいのよ。辛い思いをしなくていいのよ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 337daf405740ea7b194588ea36161a62
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「はぁ、はぁ⋯⋯⋯⋯、そんな⋯⋯こと⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 56d0e2078e73df5f705cf63c09936bb2
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「⋯⋯それなら、どうして雨の廃墟で、レインコーラーの赤ん坊を殺せなかったの？海神だって止めを刺そうと思えばできたでしょ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c617f824522c81c27a68d2f0aad170de
+msgctxt "クレレ　Scene3D_RiccaArclich_04.csv"
+msgid "「リッチたちが言ってました。魔獣の材料に使った小鳥の死骸が、羽を丁寧に畳まれて城壁の片隅に置かれていたって。⋯⋯誰の仕業なんでしょうね？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ba808596778c382057dfbde8b64a3035
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「あなた、ドレインクリスタルの材料にされた魔物にだって、同情していたわよね？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 5ec232abed46106c50a709af1c9930c9
+msgctxt "ミリア　Scene3D_RiccaArclich_04.csv"
+msgid "「ウフフ⋯⋯、この場所で、大量のマジックストーンから力を得たときだって、魔物の気持ちが分かるって言っていたじゃない」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 8ff8944f6654ff58b95f136d9f566de2
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「はぁ、はぁっ⋯⋯⋯⋯、そ⋯⋯、それは⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 5e9f37f8a9060f53adb00b77c78c1778
+msgctxt "ミリア　Scene3D_RiccaArclich_04.csv"
+msgid "「リッカ⋯⋯、あなたはどれだけ覚悟を決めても、勇ましくて非情な戦士になんてなれない。根は優しい山村の女の子から変われていないでしょ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 10fc4546cb8000cdd6dea0985d3533cc
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「そう⋯⋯、だから、神様はあなたを選んだのよ。⋯⋯神様は世界の生き物、全てを愛していて、それには魔物も含まれている」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: dc958cf982954e50f34b15210ad30982
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「はぁ⋯⋯、はぁ⋯⋯⋯⋯、え⋯⋯？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 63326bb889debf2ea6dcd10efba86f78
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「悪さをする魔物は退治しなければならない。でも、甘くて優しくてお人好しで生き物が好きなあなたなら、力に任せて殺しすぎる心配はないもの」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 58cbcf2b2006cfae5efe1119e04581c6
+msgctxt "ミリア　Scene3D_RiccaArclich_04.csv"
+msgid ""
+"「ウフフ⋯⋯、きっと、最初はスライム一匹殺すのだって、躊躇していたんでしょ？　"
+"いつだったか作ってあげた、仔羊のスープだって、微妙な顔をして食べていたものね」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 988b3fd9f234e03ac7a65ac60cfe0277
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「スライム⋯⋯⋯⋯、仔羊の⋯⋯スープ⋯⋯、神様の⋯⋯、光の柱を見つけた日の⋯⋯、あ⋯⋯、あぁ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: eb37a8f1e5e54bb7e1a64658637d0263
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「初めてヘルハウンドと戦ったときだって躊躇していた。アラクネと戦ったときだって、悲痛な顔をしていたでしょ」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 26572a468b408c8e79f2d05984b2a4a3
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「石切場で同族である人間も殺していた⋯⋯。私、あの日以来、あなたが夜な夜な罪の意識で、うなされていたのを知っているのよ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: de94c185706888e178492578302e77c2
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「ぐすっ⋯⋯、そ、そんなこと⋯⋯、ぐすっ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 33263746942cd9c54ecd5bc0ea101dae
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「再び聖騎士になってから明るく振る舞うことが増えたけれど、あれは心の中に浮かび上がる罪の意識を、掻き消そうとしていたのではないかしら？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: b34555dbf1030b4e2941838f3c4a4b8d
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「あ⋯⋯、あぁっ⋯⋯、違う⋯⋯、うっ、ひぐっ⋯⋯、ううっ⋯⋯、ぐすっ⋯⋯、あぁっ⋯⋯、うぁ⋯⋯、ひぐっ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 08d1000d5c01320b6165b9299cbed801
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「少し前まで何の変哲もない村娘だったあなたが、同じ人間を殺して平気で居られるわけ無い⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 8b4548b22e4f48cee44c39d6bb040065
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「自分は悪くないと言い聞かせても、常に自責の念に駆られていた⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: de68ab62f63d2c370ef6f48e1ed8c171
+msgctxt "クレレ　Scene3D_RiccaArclich_04.csv"
+msgid "「私には詳しい状況はわかりませんが⋯⋯、たぶん、か弱い女の子のリッカさんが、男の人たちに襲われて乱暴されそうになったんですよね？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: e84e7c6ddee90d0a3710d4c3e1d2f117
+msgctxt "クレレ　Scene3D_RiccaArclich_04.csv"
+msgid "「えへへ⋯⋯、それなら、どんな風に反撃したってリッカさんは悪くありませんよ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: fc3720349fd1c893da4dbd5f209db231
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid ""
+"「あぁっ⋯⋯、クレレちゃん⋯⋯、わ、私は、ううっ⋯⋯⋯⋯、ぐすっ⋯⋯、悪くない⋯⋯⋯⋯、あぁっ、ひっぐ⋯⋯、悪くない⋯⋯の⋯⋯？　"
+"ぐすっ、ぐすっ⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 1902d4076e47039278c3fb61f4d97b69
+msgctxt "ミリア　Scene3D_RiccaArclich_04.csv"
+msgid "「ウフフ⋯⋯、そうよ⋯⋯。あなたは悪くない⋯⋯。そして、もう聖騎士でなくなったのだから、これ以上、辛い思いをしなくていいの⋯⋯、戦わなくていいの⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: d0a466bda28e6cee83f0002a48bdcb60
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「もう⋯⋯、戦わなくていい⋯⋯。魔物や⋯⋯、人を⋯⋯、殺さなくていい⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 6783abf442e077da6caf3d521610182d
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「フフフ⋯⋯、そうよ。聖騎士にならなければ、死の危険と隣合わせの戦場に、戻ることは二度と無い⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3b94186be784eb5b1cddfd2e418f194b
+msgctxt "クレレ　Scene3D_RiccaArclich_04.csv"
+msgid "「私たちはリッカさんが心配なんです⋯⋯。例え聖騎士の力があっても、邪竜の力を手にしたアークリッチ様と戦ったら殺されてしまう⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 52bfcc029ee64c0917e158aa5d3740b8
+msgctxt "クレレ　Scene3D_RiccaArclich_04.csv"
+msgid "「でも、ここならみんなで安全に暮らせます⋯⋯。だから⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 37f4787963d2b714e5cba2f0b00da348
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「だから⋯⋯、ブローチを奪ったの⋯⋯？私に⋯⋯、もう戦わずに⋯⋯、もう傷つけずに⋯⋯、暮らせるようにするために⋯⋯、私のことを想って⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 1aee3ee66d091c8f11f94c46c98693fe
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「フフフ⋯⋯、そうよ。アークリッチ様に隷属すれば、悲しみと危険ばかりの戦場に、戻ることは二度と無い⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: f513d0d82309f9dc25c5eaf095d4dfe6
+msgctxt "イーリス　Scene3D_RiccaArclich_04.csv"
+msgid "「私が巻き込んでしまったあなたに⋯⋯、辛い思いをして欲しくない⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 932e50572d4ad84c2b8bb8443da66151
+msgctxt "ミリア　Scene3D_RiccaArclich_04.csv"
+msgid "「リッカ、あなたは十分に戦ったわ。これからはみんなのお母さんとして幸せに暮らすの⋯⋯。気持ちいいことが大好きなのは、お姉ちゃん、お見通しよ？」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: a93aacf14fcd6ddfdcf656db76a107e1
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「いっぱい気持ちよくなって⋯⋯、みんなのお母さんに⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 9f21aacb15094a7fe01d0d4726108005
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「家族に囲まれて幸せな⋯⋯、暮らし⋯⋯、ぐすっ⋯⋯、お姉ちゃんの⋯⋯幸せを⋯⋯叶えられる⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 6659e4dcbfc4add9de9fbed643bdb911
+msgctxt "リッカ　Scene3D_RiccaArclich_04.csv"
+msgid "「あ、あぁ⋯⋯⋯⋯。私は⋯⋯、私⋯⋯は⋯⋯⋯⋯、みんな⋯⋯と⋯⋯⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 17aea2e25b3590483f9c35956d5abd4b
+msgctxt "地の文　Scene3D_RiccaArclich_05.csv"
+msgid "一週間後⋯⋯。"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3abde5467a5dbf855e2ae59bb835b682
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「わんっわんっ、わおぉんっ、リッカの弱いとこばっかりっ⋯⋯、あぁっ、あんっ、わはぁんっ⋯⋯、イクイクイクぅっ♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 2a4dc4ad3581e14e513916e7f1ebbfc6
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「あぁんっ、イクゥウウゥゥゥっ⋯⋯、あおぉおおおおおおおぉぉんっ♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ed39f81cf00b93bc6d80e6c13250d436
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「わおぉんっ⋯⋯、はふぅ、はふぅ⋯⋯、まらいっらぁっ⋯⋯、まらいかしゃれちゃっらのぉ⋯⋯、わぉおん⋯⋯♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 17959c82d721ca976a2b338241dcc3a4
+msgctxt "ミリア　Scene3D_RiccaArclich_05.csv"
+msgid "「ウフッ⋯⋯、リッカ、みんなの役に立てて良かったわね。その姿、とてもよく似合っているわ♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: bf4b5a0f327735c81fc58e81ffad4b04
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「はふぅ⋯⋯？　お姉しゃまぁっ♪　くぅ～ん⋯⋯♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 55ce23dfbb6fabb0347bf16956f17de9
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「リッカねっ、悪い子らったからっ、魔物たくさんいじめてきたからっ⋯⋯、赤ちゃん産んで謝りたいんでしゅぅ⋯⋯、わふぅ⋯⋯♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 0e1429ceadd5b2d481ad87c58ca94837
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid ""
+"「だかりゃっ、即イキマンコでご奉仕いたしましゅぅ、あぁんっ♡いやらしいお口とケツ穴でいっぱいっ⋯⋯、オチンポしゃぶらせていただきましゅぅっ、わおぉんっ♡"
+"♡♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 44956156a21ac96aaee572d6578327b1
+msgctxt "ミリア　Scene3D_RiccaArclich_05.csv"
+msgid "「リッカ⋯⋯、フフッ⋯⋯。私の可愛い妹⋯⋯、魔物みんなの牝犬奴隷⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 2055e69672ddd2700490c8d9644801bf
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「あぉおおんっ、わんっ、わんっ、くぅ～んっ⋯⋯、あぁんっ、もっろぉっ、気持ちいいオチンポくだしゃいっ♡♡♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 975be64f14fa1b1a4b88afc2e9dff45e
+msgctxt "ミリア　Scene3D_RiccaArclich_05.csv"
+msgid "「太陽のような眩い笑顔に、一人ぼっちの寂しさが落とした影⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 87ab17b41370890b8a8b9bd4077c2d87
+msgctxt "ミリア　Scene3D_RiccaArclich_05.csv"
+msgid "「幼い日々に刻まれた寂しさを埋めるために、他者との繋がりを求めて隷属し⋯⋯、どこまでも深く墜ちたがる⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 095de454204b9b7bfbe4059b57e2cbd8
+msgctxt "ミリア　Scene3D_RiccaArclich_05.csv"
+msgid "「それがあなたの⋯⋯、いえ、私たち孤独な姉妹の淫靡な本性⋯⋯。神様が与えてくれた運命だったのよ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 49bf60c93936e2f9542bcbae9a1eb0b3
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「わんっ、わんっ⋯⋯、にゃんでもしましゅ⋯⋯、オチンポご奉仕しへっ、ざーめんもおしっこも飲ませていただきましゅぅ♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: a0138019f42ee9e5eef1b6f517e6e8ed
+msgctxt "リッカ　Scene3D_RiccaArclich_05.csv"
+msgid "「らから、みんにゃっ、リッカを愛しへくらしゃいぃぃ、あぁんっ♡リッカみんにゃの役に立ちゅのっ、らいしゅきにゃんでしゅうぅ♡♡♡」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: db9c6eabcbe9c30a69183503f3f57094
+msgctxt "リッカ　atd_RiccaArclich_04.csv"
+msgid "「嫌っ、やめてっ⋯⋯！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 3066a2f8b3087800d911d5617f7af090
+msgctxt "ミリア　atd_RiccaArclich_04.csv"
+msgid "「さぁリッカ⋯⋯♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: cc9f9901e2c369b5844db645a3a7d097
+msgctxt "クレレ　atd_RiccaArclich_04.csv"
+msgid "「いきますよ⋯⋯♪」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 910f2a0b70865d5d7562b8d1cb31d754
+msgctxt "リッカ　atd_RiccaArclich_05.csv"
+msgid "「お願い、みんなっ、こんなのって⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: ae1cd087ed7cbacbb6cdf16f6dd8dcc8
+msgctxt "ミリア　atd_RiccaArclich_05.csv"
+msgid "「さあリッカ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: c4bfcfdbb50eb50a2185b8553928c012
+msgctxt "クレレ　atd_RiccaArclich_05.csv"
+msgid "「これで⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 41c00a1ae679c3bac4446563680ae891
+msgctxt "イーリス　atd_RiccaArclich_05.csv"
+msgid "「おしまいよっ⋯⋯」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: 4db5161447a9d29247ec24e64eeabfae
+msgctxt "リッカ　atd_RiccaArclich_05.csv"
+msgid "「ひぎいっ⋯⋯！　やぁんっ、嫌ぁああああぁあぁぁぁあぁぁぁぁぁっ！」"
+msgstr ""
+
+#: File: sample.xlsx
+#: ID: df4eea97e00aee7e1a4e439519e59058
+msgctxt "リッカ　atd_RiccaArclich_05.csv"
+msgid "「あぁ⋯⋯、私⋯⋯、ブローチ⋯⋯が⋯⋯⋯⋯」"
+msgstr ""

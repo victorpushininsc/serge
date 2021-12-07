@@ -355,12 +355,12 @@ sub process_job {
 
     die "source_dir directory [$job->{source_dir}] doesn't exist. Try doing an initial data checkout (`serge pull --initialize`), or reconfigure your job" unless -d $job->{source_dir};
 
-    print "Source dir: [".$job->{source_dir}."]\n";
+    print "\nSource dir: [".$job->{source_dir}."]\n";
     print "DB source: [".$job->{db_source}."]\n";
     print "TS file path: [".$job->{ts_file_path}."]\n";
     print "Output path: [".$job->{output_file_path}."]\n";
     print "Destination languages: [".join(',', sort @{$job->{destination_languages}})."]\n";
-    print "Modified languages: [".join(',', sort @{$job->{modified_languages}})."]\n";
+    print "Modified languages: [".join(',', sort @{$job->{modified_languages}})."]\n\n";
 
     # preload all items/strings/translations into cache
 
@@ -372,7 +372,7 @@ sub process_job {
 
     my $start = [gettimeofday];
     $self->update_database_from_source_files;
-    print "update_database_from_source_files() took ", tv_interval($start), " seconds\n";
+    print "update_database_from_source_files() took ", tv_interval($start), " seconds\n\n";
 
     # The following callback has been deprecated.
     # See Engine::Job::load_plugin_and_register_callbacks for the deprecation notice
@@ -385,7 +385,7 @@ sub process_job {
         $self->update_database_from_ts_files;
         print "update_database_from_ts_files() took ", tv_interval($start), " seconds\n";
     } else {
-        print "Skipping update_database_from_ts_files() step\n";
+        print "Skipping update_database_from_ts_files() step\n\n";
     }
 
     $self->run_callbacks('before_generate_ts_files');
@@ -414,7 +414,7 @@ sub process_job {
 
     $self->run_callbacks('after_job');
 
-    print "*** [end] ***\n";
+    print "\n*** [end] ***\n\n";
 }
 
 sub commit_transaction {
@@ -630,8 +630,9 @@ sub parse_source_file {
     my $path = $self->get_full_source_path($self->{current_file_rel});
 
     my ($src, $file_hash);
+
     if ($self->{job}->{parser_object}->can('read_file')) {
-        print "\t\tParser will handle file reading\n" if $self->{debug};
+        print "\nParser will handle file reading\n" if $self->{debug};
         ($src, $file_hash) = $self->{job}->{parser_object}->read_file($path, 1);
     } else {
         ($src, $file_hash) = $self->read_file($path, 1);
@@ -657,6 +658,7 @@ sub parse_source_file {
     # - in output_only_mode, don't create a file record if it doesn't exist, but skip the file entirely
 
     $self->{current_file_id} = $self->{db}->get_file_id($self->{job}->{db_namespace}, $self->{job}->{id}, $self->{current_file_rel}, $self->{job}->{output_only_mode});
+    
     if ($self->{job}->{output_only_mode} && !$self->{current_file_id}) {
         print "\tWARNING: $self->{current_file_rel} will be skipped in 'output_only_mode' because it is not registered in the database\n";
         return;
@@ -730,6 +732,7 @@ sub parse_source_file {
         my ($orig_self, @params) = @_;
         $orig_self->parse_source_file_callback(@params);
     };
+
     if ($self->{job}->has_callbacks('segment_source')) {
         $callback_sub = sub {
             my ($orig_self, @params) = @_;
@@ -1571,7 +1574,7 @@ sub generate_localized_files_for_file_lang {
 
     my $src;
     if ($self->{job}->{parser_object}->can('read_file')) {
-        print "\t\tParser will handle file reading\n" if $self->{debug};
+        print "\nParser will handle file reading\n" if $self->{debug};
         ($src) = $self->{job}->{parser_object}->read_file($srcpath);
     } else {
         ($src) = $self->read_file($srcpath);
@@ -1626,11 +1629,12 @@ sub generate_localized_files_for_file_lang {
 
     my ($text, $current_hash);
     if ($self->{job}->{parser_object}->can('serialize')) {
-        print "\t\tParser will handle serialization\n" if $self->{debug};
+        print "\nParser will handle serialization\n" if $self->{debug};
         ($text, $current_hash) = $self->{job}->{parser_object}->serialize(\$out);
     } else {
         ($text, $current_hash) = $self->serialize_file_content(\$out);
     }
+
     my $old_hash = $self->{db}->get_property("target:$filekey:$lang");
 
     if ($self->{job}->{optimizations}
@@ -1661,8 +1665,8 @@ sub generate_localized_files_for_file_lang {
         print "\t\tSaving $fullpath, because ".join(', ', @reasons);
 
         if ($self->{job}->{parser_object}->can('write_file')) {
-            print "\t\tParser will handle file writing\n" if $self->{debug};
-            ($text, $current_hash) = $self->{job}->{parser_object}->write_file($fullpath, \$text);
+            print "\n\nParser will handle file writing\n" if $self->{debug};
+            $self->{job}->{parser_object}->write_file($srcpath, $fullpath, \$text);
         } else {
             open(OUT, ">$fullpath") || die "Can't write to [$fullpath]: $!";
             binmode(OUT);
@@ -1671,7 +1675,7 @@ sub generate_localized_files_for_file_lang {
         }
 
         my $size = -s $fullpath;
-        print " ($size bytes)\n";
+        print "\n($size bytes)\n";
 
         $self->run_callbacks('on_localized_file_change', $file, $lang, \$text);
 

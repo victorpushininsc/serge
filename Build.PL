@@ -37,6 +37,9 @@ my $builder = Module::Build->new(
         'XML::Parser::Style::IxTree' => 0,
         'XML::Twig'                  => 0,
         'YAML::XS'                   => 0,
+        'Spreadsheet::Read'          => 0,
+        'Spreadsheet::ParseXLSX'     => 0,
+        'Spreadsheet::Write'         => 0
     },
     recommends => {
         'IO::String'         => 0,

@@ -1,10 +1,21 @@
 properties
 {
-    0    1 source:1 d41d8cd98f00b204e9800998ecf8427e
-    1    2 hash:1 ``
-    2    3 size:1 48414
-    3    4 items:1 ``
-    4    5 ts:1:test:count 0
-    5    6 usn:1:test 0
-    6    7 ts:1:test bbb1fb87506106a98e7d21e72d871ecd
+    0     1 source:1 ede19cf83fa7b8f33596cd65ee6200c8
+    1     2 hash:1 ede19cf83fa7b8f33596cd65ee6200c8
+    2     3 size:1 6300
+    3     4 items:1 1,2,3,4,5
+    4     5 ts:1:test:count 5
+    5     6 usn:1:test 16
+    6     7 ts:1:test 73702cb3b196d62a4afbc79799089e38
+    7     8 target:1:test_job:test 131e3b18a9280b102a249502e724daf0
+    8     9 target:mtime:1:test_job:test 12345678
+    9     10 source:1:test_job:test ede19cf83fa7b8f33596cd65ee6200c8
+    10    11 source:ts:1:test_job:test
+          73702cb3b196d62a4afbc79799089e38
+    11    12 job-hash:test_namespace:test_job
+          bbc56535579bf4dd4c45f2774ff6eafb
+    12    13 job-plugin:test_namespace:test_job parse_xlsx.
+    13    14 job-serializer-plugin:test_namespace:test_job
+          serialize_po.
+    14    15 job-engine:test_namespace:test_job 1.4
 }

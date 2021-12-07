@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: test\n"
+"Generated-By: Serge 1.4\n"
+
+#: File: sample.xlsx
+#: ID: 1f3e9b9c4bf4a05f5d28a515908670f0
+msgctxt "1"
+msgid "one"
+msgstr "őŋē"
+
+#: File: sample.xlsx
+#: ID: a3ea991a435b82d460b24b6aca1fbe37
+msgctxt "2"
+msgid "two"
+msgstr "ţŵő"
+
+#: File: sample.xlsx
+#: ID: 1e992a1a18c19f4c13d10cfbcd681ab5
+msgctxt "3"
+msgid "three"
+msgstr "ţĥŕēē"
+
+#: File: sample.xlsx
+#: ID: b215d85324526169a8357156e95655f7
+msgctxt "4"
+msgid "four"
+msgstr "ḟőũŕ"
+
+#: File: sample.xlsx
+#: ID: d33ff1f6d5ffb71fb5b47180169e3c90
+msgctxt "5"
+msgid "five"
+msgstr "ḟĩṽē"

@@ -3,6 +3,9 @@ jobs
     {
         @inherit                                 ../../common.serge#job_template
 
+        source_language                          ja
+        destination_languages                    en
+
         source_process_subdirs                   YES
         source_match                             \.xlsx$
 
